@@ -5,3 +5,5 @@ En el ejercicio-02 en la solución me di cuenta que valide si era un true o fals
 En el ejercicio-03 he aprendido el array.reduce y como funciona.
 
 En el ejercicio-04 he aprendido el toLowerCase.
+
+En el ejercicio-05 he aprendido los milisegundos
