@@ -3,3 +3,5 @@ En el ejercicio-01 me encontré con la solución pero me di cuenta que utilizaba
 En el ejercicio-02 en la solución me di cuenta que valide si era un true o false para llegar a la respuesta correcta.
 
 En el ejercicio-03 he aprendido el array.reduce y como funciona.
+
+En el ejercicio-04 he aprendido el toLowerCase.
